@@ -9,6 +9,14 @@ Salma Rahma Lailia  - 05111942000016
 
 Farah Dhiah Qorirah - 05111942000018
 
+Runtime LibraryAES
+
+![Picture3](https://user-images.githubusercontent.com/73702347/161590230-b5dbf279-a087-40f7-9d68-8a3c5349d524.png)
+
+Encrypted and Decrypted LibraryAES
+
+![Picture4](https://user-images.githubusercontent.com/73702347/161590354-e6abc236-f709-4c64-90dc-c02500f22bb9.png)
+
 Runtime RSA
 
 ![image](https://user-images.githubusercontent.com/73812417/161583620-1ddde75a-66e1-4f93-b05e-df3759f3d9a6.png)
@@ -17,8 +25,5 @@ Encrypted RSA
 
 ![image](https://user-images.githubusercontent.com/73812417/161584234-5bb3cfd0-4570-42ae-9940-dbb296836ab4.png)
 
-SS Coding RSA (kl perlu)
-
-![image](https://user-images.githubusercontent.com/73812417/161585072-9d6b7454-26ee-474f-a9f0-14271e7a505e.png)
 
 
